@@ -31,7 +31,7 @@
 </p>
 
 <p align="left">
-<a href="https://www.facebook.com/Shoaibahmedbappycse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoaib bappy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Shoaibahmedbappycse" target="blank"><img align="center" src="https://in.pinterest.com/pin/facebook-icon-fb-icon-fb-logo-facebook-logo-vector-and-png--694398836297809217/" alt="shoaib bappy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
