@@ -1,4 +1,4 @@
- <img src="Colorful Pastel Modern Personal LinkedIn Banner.png">
+ <img src="Colorful_Pastel_Modern_Personal_LinkedIn_Banner.png">
 
 <h1 align="center">Hi 👋, I'm Shoaib Ahmed Bappy</h1>
 <h3 align="center">A passionate and skilled web developer with a strong foundation in both front-end and back-end technologies from Bangladesh</h3>
