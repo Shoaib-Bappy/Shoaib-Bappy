@@ -1,4 +1,4 @@
- <img src="https://www.linkedin.com/in/shoaib-bappy-a98a9115b/overlay/background-image/">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Kafil_Bappy_at_Wikipedia_15_good_article_edit-a-thon_and_adda%2C_Chittagong_2_%2801%29.jpg">
 
 <h1 align="center">Hi 👋, I'm Shoaib Ahmed Bappy</h1>
 <h3 align="center">A passionate and skilled web developer with a strong foundation in both front-end and back-end technologies from Bangladesh</h3>
