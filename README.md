@@ -1,7 +1,7 @@
  <img src="https://www.linkedin.com/in/shoaib-bappy-a98a9115b/overlay/background-image/">
 
 <h1 align="center">Hi 👋, I'm Shoaib Ahmed Bappy</h1>
-<h3 align="center">A passionate and skilled web developer with a strong foundation in both front-end and back-end technologies, from Bangladesh</h3>
+<h3 align="center">A passionate and skilled web developer with a strong foundation in both front-end and back-end technologies from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib-bappy&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib-bappy" /> </p>
 
