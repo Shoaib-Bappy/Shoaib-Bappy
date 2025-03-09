@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Premium Websites Customization](https://drive.google.com/file/d/1ADCy2JoOUcpQ8b9ZlrO1vO86Jro3eJcT/view)
 
-- 🌱 I’m currently learning **Web Development, bootstrap, jQuery, PHP, CCNA etc.**
+- 🌱 I have completed learning **Web Development, HTML, CSS, bootstrap, jQuery, PHP, SQL & CCNA etc.**
 
 - 👯 I’m looking to collaborate on [Multi-Page Website Clone & Customization](https://drive.google.com/drive/my-drive)
 
